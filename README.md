@@ -19,6 +19,7 @@ cd C:\Users\SRUJAN M H\Downloads\Fake-News-Detection-main\Fake-News-Detection-ma
 
 pip install -r requirements.txt
 
-python app.py
+python apps.py
+
 
 
